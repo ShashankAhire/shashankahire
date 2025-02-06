@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center"> I'm Shashank Ahire</h1>
 
 
-I am [Shashank Ahire](https://www.linkedin.com/in/shashank-ahire), 🌟 DevOps Enthusiast | Cloud Practitioner | Automation & Infrastructure Specialist
+I am [Shashank Ahire](www.linkedin.com/in/shashank-ahire-a5841b20b), 🌟 DevOps Enthusiast | Cloud Practitioner | Automation & Infrastructure Specialist
 
 I am passionate about solving complex problems through innovative cloud-native solutions and DevOps practices. With a strong foundation in AWS, CI/CD pipelines, and infrastructure as code, I specialize in deploying scalable, automated systems. My expertise spans Kubernetes, Docker, Terraform, and cloud security. 🚀
 
@@ -64,6 +64,6 @@ I am passionate about solving complex problems through innovative cloud-native s
 ### 📫 How to reach me?
 
 <!-- - Visit my [Portfolio Website](#) 🌐 -->
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/shashank-ahire) 👨🏻‍💻
+- Connect with me on [LinkedIn](www.linkedin.com/in/shashank-ahire-a5841b20b) 👨🏻‍💻
 - Follow me on [GitHub](https://github.com/ShashankAhire) 🚀
 - Shoot Me an [Email](mailto:shashankahire1402@gmail.com) 💌
