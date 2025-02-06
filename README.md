@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Shashank Ahire</h1>
+<h1 align="center"> I'm Shashank Ahire</h1>
 
 
 I am [Shashank Ahire](https://www.linkedin.com/in/shashank-ahire), 🌟 DevOps Enthusiast | Cloud Practitioner | Automation & Infrastructure Specialist
@@ -38,9 +38,6 @@ I am passionate about solving complex problems through innovative cloud-native s
   </a>
   <a href="https://cloud.google.com/cloud-build" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif" height="65" />
-  </a>
-  <a href="https://aws.amazon.com/cloudformation/" target="_blank" >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="75" />
   </a>
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="75" />
