@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Shashank Ahire
 
 <!--
 **ShashankAhire/shashankahire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> I'm Shashank Ahire</h1>
 
 
 I am [Shashank Ahire](https://www.linkedin.com/in/shashank-ahire-a5841b20b/), 🌟 DevOps Enthusiast | Cloud Practitioner | Automation & Infrastructure Specialist
