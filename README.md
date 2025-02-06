@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Shashank Ahire
+## Hi there 👋
 
 <!--
 **ShashankAhire/shashankahire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
